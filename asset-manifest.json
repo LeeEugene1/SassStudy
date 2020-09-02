@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SassStudy/static/css/main.09a722d6.chunk.css",
+    "main.js": "/SassStudy/static/js/main.55cb3c5b.chunk.js",
+    "main.js.map": "/SassStudy/static/js/main.55cb3c5b.chunk.js.map",
+    "runtime-main.js": "/SassStudy/static/js/runtime-main.23ec8674.js",
+    "runtime-main.js.map": "/SassStudy/static/js/runtime-main.23ec8674.js.map",
+    "static/js/2.0495b993.chunk.js": "/SassStudy/static/js/2.0495b993.chunk.js",
+    "static/js/2.0495b993.chunk.js.map": "/SassStudy/static/js/2.0495b993.chunk.js.map",
+    "index.html": "/SassStudy/index.html",
+    "precache-manifest.a70ad4583beec10ab814e62fb40b7ca0.js": "/SassStudy/precache-manifest.a70ad4583beec10ab814e62fb40b7ca0.js",
+    "service-worker.js": "/SassStudy/service-worker.js",
+    "static/css/main.09a722d6.chunk.css.map": "/SassStudy/static/css/main.09a722d6.chunk.css.map",
+    "static/js/2.0495b993.chunk.js.LICENSE.txt": "/SassStudy/static/js/2.0495b993.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23ec8674.js",
+    "static/js/2.0495b993.chunk.js",
+    "static/css/main.09a722d6.chunk.css",
+    "static/js/main.55cb3c5b.chunk.js"
+  ]
+}
