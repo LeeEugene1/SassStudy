@@ -35,13 +35,16 @@ $pink: pink;
     &.large{ 
         height:3rem; 
         font-size:1.25rem; 
-    } &.medium{ 
+    } 
+    &.medium{ 
         height:2.25rem; 
         font-size:1rem; 
-    } &.medium{ 
+    } 
+    &.medium{ 
         height:2.25rem; 
         font-size:0.8rem; 
     } 
+    
     
     //중복되는애들은 mixin을 사용한다. 
     &.blue{ background: $blue; 
